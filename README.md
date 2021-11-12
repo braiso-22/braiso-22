@@ -1,8 +1,9 @@
-# Hello, my name is Brais Fernández👋
-
-- 🌱 I’m currently learning:
- --multiplatform application programming
-
+<h1> Hello, my name is Brais Fernández👋</h1>
+<ul>
+ <li><h2> 🌱 I’m currently learning:</h2></li>
+ 
+multiplatform application programming
+</ul>
 
 
 <!--
