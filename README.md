@@ -2,7 +2,7 @@
 <ul>
  <li><h2> 🌱 I’m currently learning:</h2></li>
  
-multiplatform application programming
+ <li>multiplatform application programming</li>
 </ul>
 
 
