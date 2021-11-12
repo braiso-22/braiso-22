@@ -1,7 +1,7 @@
 # Hello, my name is Brais Fernández👋
 
 - 🌱 I’m currently learning:
- --ultiplatform application programming
+ --multiplatform application programming
 
 
 
