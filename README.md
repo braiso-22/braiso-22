@@ -1,6 +1,10 @@
 # Hello, my name is Brais Fernández👋
+
 - 🌱 I’m currently learning:
-  
+ --ultiplatform application programming
+
+
+
 <!--
 **braiso-22/braiso-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
