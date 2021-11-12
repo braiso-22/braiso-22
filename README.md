@@ -1,6 +1,6 @@
 <h1> Hello, my name is Brais Fernández👋</h1>
-<ul>
- <li><h2> 🌱 I’m currently learning:</h2></li>
+<h2> 🌱 I’m currently learning:</h2>
+ <ul>
  
  <li>multiplatform application programming</li>
 </ul>
