@@ -2,7 +2,8 @@
 <h2> 🌱 I’m currently learning:</h2>
  <ul>
  
- <li>multiplatform application programming</li>
+ <li>Multiplatform application programming(Java, SQLServer/MySQL, HTML, Android, Unity)</li>
+ <li>BigData Developing(Python, Scala, MariaDB, MongoDB, Spark, Cloudera)</li>
 </ul>
 
 
