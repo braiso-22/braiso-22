@@ -9,7 +9,7 @@ GL/ES/EN
 </ul>
 <h2>📫 How to reach me:</h2>
 <ul>
- <li>Mail(<a href="braisfv22@gmail.com">)</li>
+ <li>Mail(braisfv22@gmail.com)</li>
 </ul>
 
 
