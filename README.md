@@ -7,6 +7,10 @@ GL/ES/EN
  <li>Multiplatform application programming(Java, SQLServer/MySQL, HTML, Android, Unity)</li>
  <li>BigData Developing(Python, Scala, MariaDB, MongoDB, Spark, Cloudera)</li>
 </ul>
+<h2>📫 How to reach me:</h2>
+<ul>
+ <li>Mail(<a href="braisfv22@gmail.com">)</li>
+</ul>
 
 
 <!--
