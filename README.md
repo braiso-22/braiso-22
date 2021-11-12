@@ -10,6 +10,7 @@ GL/ES/EN
 <h2>📫 How to reach me:</h2>
 <ul>
  <li>Mail(<a href=mailto:"braisfv22@gmail.com">braisfv22@gmail.com</a>)</li>
+ <li>Discord(<a href=https://discordapp.com/users/572932811087020043>braiso_22#2667</>)</li>
 </ul>
 
 
