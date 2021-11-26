@@ -5,8 +5,16 @@ GL/ES/EN
  <ul>
  
  <li>Multiplatform application programming(Java, SQLServer/MySQL, HTML, Android, Unity)</li>
- <li>BigData Developing(Python, Scala, MariaDB, MongoDB, Spark, Cloudera)</li>
+ 
 </ul>
+
+<h2>📖 Academic Titles</h2>
+<ul>
+ <li>Networking and Microsystems</li>
+ <li>BigData Developing(Python, Scala, MariaDB, MongoDB, Spark, Cloudera)</li>
+ </ul>
+
+
 <h2>📫 How to reach me:</h2>
 <ul>
  <li>Mail(<a href=mailto:"braisfv22@gmail.com">braisfv22@gmail.com</a>)</li>
