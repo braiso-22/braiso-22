@@ -10,7 +10,7 @@ GL/ES/EN
 
 <h2>📖 Academic Titles</h2>
 <ul>
- <li>Networking and Microsystems</li>
+ <li>Networking and Microsystems(Windows, Linux, ActiveDirectory, Network configuration, Computer assembly and maintenance)</li>
  <li>BigData Developing(Python, Scala, MariaDB, MongoDB, Spark, Cloudera)</li>
  </ul>
 
@@ -18,7 +18,7 @@ GL/ES/EN
 <h2>📫 How to reach me:</h2>
 <ul>
  <li>Mail(<a href=mailto:"braisfv22@gmail.com">braisfv22@gmail.com</a>)</li>
- <li>Discord(<a href=https://discordapp.com/users/572932811087020043>braiso_22#2667</>)</li>
+ <li>Discord(<a href=https://discordapp.com/users/572932811087020043>braiso_22#2667</a>)</li>
 </ul>
 
 
