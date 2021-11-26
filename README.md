@@ -10,8 +10,8 @@ GL/ES/EN
 
 <h2>📖 Academic Titles</h2>
 <ul>
- <li>Networking and Microsystems(Windows, Linux, ActiveDirectory, Network configuration, Computer assembly and maintenance)</li>
  <li>BigData Developing(Python, Scala, MariaDB, MongoDB, Spark, Cloudera)</li>
+ <li>Networking and Microsystems(Windows, Linux, ActiveDirectory, Network configuration, Computer assembly and maintenance)</li>
  </ul>
 
 
