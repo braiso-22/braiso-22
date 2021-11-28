@@ -1,4 +1,3 @@
-
 <h1> Hello, my name is Brais Fernández👋</h1>
 GL/ES/EN
 
@@ -21,6 +20,8 @@ GL/ES/EN
  <li>Mail(<a href=mailto:"braisfv22@gmail.com">braisfv22@gmail.com</a>)</li>
  <li>Discord(<a href=https://discordapp.com/users/572932811087020043>braiso_22#2667</a>)</li>
  </ul>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braiso-22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braiso-22)](https://github.com/anuraghazra/github-readme-stats)-->
 
