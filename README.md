@@ -21,7 +21,7 @@ GL/ES/EN
  <li>Discord(<a href=https://discordapp.com/users/572932811087020043>braiso_22#2667</a>)</li>
  </ul>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braiso-22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=braiso-22&layout=compact&theme=dark&border_radius=10&locale=es)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braiso-22)](https://github.com/anuraghazra/github-readme-stats)-->
 
