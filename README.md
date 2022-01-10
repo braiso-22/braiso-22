@@ -4,7 +4,7 @@ GL/ES/EN
 <h2> 🌱 I’m currently learning:</h2>
  <ul>
  
- <li>Multiplatform application programming(Java, SQLServer/MySQL, HTML, CSS, Android, Unity, Git, Scrum)</li>
+ <li>Multiplatform application programming(Java, C#, SQLServer/MySQL, HTML, CSS, Android, Unity, Git, Scrum)</li>
  
 </ul>
 
