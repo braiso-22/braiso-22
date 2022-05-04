@@ -1,10 +1,18 @@
 <h1> Hello, my name is Brais Fernández👋</h1>
 GL/ES/EN
 
+<h2>👨‍💻 Work experience:</h2>
+<ul>
+ <li> 
+  <a href="https://es.nttdata.com">NttData</a> trainee programmer 
+ </li>
+ From March 29, 2022 to present
+ </ul>
+
+
 <h2> 🌱 I’m currently learning:</h2>
  <ul>
- 
- <li>Multiplatform application programming(Java, C#, SQLServer/MySQL, HTML, CSS, Android, Unity, Git, Scrum)</li>
+ <li>Multiplatform application programming(Java, C#, SQLServer/MySQL, HTML, CSS, Android, Unity, Git, Scrum...)</li>
  
 </ul>
 
