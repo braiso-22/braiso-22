@@ -12,12 +12,12 @@ GL/ES/EN
 
 <h2> 🌱 I’m currently learning:</h2>
  <ul>
- <li>Multiplatform application programming(Java, C#, SQLServer/MySQL, HTML, CSS, Android, Unity, Git, Scrum...)</li>
- 
+ <li>Modern Android App Development with Kotlin and Jetpack Compose</li>
 </ul>
 
 <h2>📖 Academic Titles</h2>
 <ul>
+ <li>Multiplatform application programming(Java, C#, SQLServer/MySQL, HTML, CSS, Android, Unity, Git, Scrum...)</li>
  <li>BigData Developing(Python, Scala, MariaDB, MongoDB, Spark, Cloudera)</li>
  <li>Networking and Microsystems(Windows, Linux, ActiveDirectory, Network configuration, Computer assembly and maintenance, Office, Image , Audio and Video editing)</li>
  </ul>
