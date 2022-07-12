@@ -9,7 +9,7 @@ GL/ES/EN
 From July 11, 2022 to the present
 
  <li> 
-  <a href="https://es.nttdata.com">NttData</a> trainee programmer 
+  <a href="https://es.nttdata.com">NttData</a> Trainee programmer 
  </li>
  From March 29 to June 8, 2022
  </ul>
