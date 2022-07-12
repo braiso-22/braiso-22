@@ -4,6 +4,11 @@ GL/ES/EN
 <h2>👨‍💻 Work experience:</h2>
 <ul>
  <li> 
+  <a href="https://es.nttdata.com">NttData</a> Junior solutions developer 
+ </li>
+From July 11, 2022 to the present
+
+ <li> 
   <a href="https://es.nttdata.com">NttData</a> trainee programmer 
  </li>
  From March 29 to June 8, 2022
