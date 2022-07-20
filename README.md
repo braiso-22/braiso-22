@@ -15,10 +15,10 @@ From July 11, 2022 to the present
  </ul>
 
 
-<h2> 🌱 I’m currently learning:</h2>
- <ul>
- <li>Modern Android App Development with Kotlin and Jetpack Compose</li>
-</ul>
+## 🌱 I’m currently learning:
+- Modern Android App Development with Kotlin and Jetpack Compose
+- Python for scripting and web scraping</li>
+
 
 <h2>📖 Academic Titles</h2>
 <ul>
