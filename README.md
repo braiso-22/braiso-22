@@ -37,7 +37,7 @@ From July 11, 2022 to the present
  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=braiso-22&layout=compact&theme=github_dark&border_radius=10">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=braiso-22&layout=compact&theme=graywhite&border_radius=10">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=braiso-22&layout=compact&border_radius=10">
   <img alt="My programming languages Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braiso-22&layout=compact&theme=graywhite&border_radius=10">
 </picture>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braiso-22)](https://github.com/anuraghazra/github-readme-stats)-->
