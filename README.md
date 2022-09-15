@@ -17,7 +17,9 @@ From July 11, 2022 to the present
 
 ## 🌱 I’m currently learning:
 - Modern Android App Development with Kotlin and Jetpack Compose
-- Python for scripting and web scraping</li>
+- Python for scripting and web scraping
+- ML, AI and BigData(Python, JupyterNotebook)
+- Web development(Javascript, DOM)
 
 
 <h2>📖 Academic Titles</h2>
