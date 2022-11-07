@@ -1,7 +1,7 @@
-<h1> Hello, my name is Brais Fernández👋</h1>
+# Hello, my name is Brais Fernández👋
 GL/ES/EN
 
-<h2>👨‍💻 Work experience:</h2>
+## 👨‍💻 Work experience:
 <ul>
  <li> 
   <a href="https://es.nttdata.com">NttData</a> Solutions Assistant
@@ -22,20 +22,18 @@ From July 11, 2022 to the present
 - Web development(Javascript, DOM)
 
 
-<h2>📖 Academic Titles</h2>
-<ul>
- <li>Multiplatform application programming(Java, C#, SQLServer/MySQL, HTML, CSS, Android, Unity, Git, Scrum...)</li>
- <li>BigData Developing(Python, Scala, MariaDB, MongoDB, Spark, Cloudera)</li>
- <li>Networking and Microsystems(Windows, Linux, ActiveDirectory, Network configuration, Computer assembly and maintenance, Office, Image , Audio and Video editing)</li>
- </ul>
+## 📖 Academic Titles
 
+- Multiplatform application programming(Java, C#, SQLServer/MySQL, HTML, CSS, Android, Unity, Git, Scrum...)
+- BigData Developing(Python, Scala, MariaDB, MongoDB, Spark, Cloudera)
+- Networking and Microsystems(Windows, Linux, ActiveDirectory, Network configuration, Computer assembly and maintenance, Office, Image , Audio and Video editing)
 
-<h2>📫 How to reach me:</h2>
-<ul>
- <li>Mail(<a href=mailto:"braisfv22@gmail.com">braisfv22@gmail.com</a>)</li>
- <li>Telegram and Whatsapp (+34 633171659)</li>
- <li>Discord(<a href=https://discordapp.com/users/572932811087020043>braiso_22#2667</a>)</li>
- </ul>
+## 📫 How to reach me:
+
+- Mail(<a href=mailto:braisfv22@gmail.com>braisfv22@gmail.com</a>)
+- Telegram and Whatsapp (+34 633171659)
+- Discord(<a href=https://discordapp.com/users/572932811087020043>braiso_22#2667</a>)
+
  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=braiso-22&layout=compact&theme=github_dark&border_radius=10">
