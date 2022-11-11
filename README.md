@@ -31,9 +31,10 @@ From July 11, 2022 to the present
 ## 📫 How to reach me:
 
 - Mail(<a href=mailto:braisfv22@gmail.com>braisfv22@gmail.com</a>)
+- Linkedin(<a href=https://www.linkedin.com/in/brais-fern%C3%A1ndez-v%C3%A1zquez-93490a211>Brais Fernández Vázquez</a>)
 - Telegram and Whatsapp (+34 633171659)
 - Discord(<a href=https://discordapp.com/users/572932811087020043>braiso_22#2667</a>)
-- Linkedin(<a href=https://www.linkedin.com/in/brais-fern%C3%A1ndez-v%C3%A1zquez-93490a211>Brais Fernández Vázquez</a>)
+
 
  
 <picture>
