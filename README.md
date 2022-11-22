@@ -1,5 +1,5 @@
 # Hello, my name is Brais Fernández👋
-GL/ES/EN - <a href="https://braiso-22.github.io">My web page</a>
+GL/ES/EN - <a href="https://braiso-22.github.io" target="_blank">My web page</a>
 
 ## 👨‍💻 Work experience:
 <ul>
