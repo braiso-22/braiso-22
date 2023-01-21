@@ -33,7 +33,7 @@ From July 11, 2022 to the present
 - Mail(<a href=mailto:braisfv22@gmail.com>braisfv22@gmail.com</a>)
 - Linkedin(<a href=https://www.linkedin.com/in/brais-fern%C3%A1ndez-v%C3%A1zquez-93490a211>Brais Fernández Vázquez</a>)
 - Whatsapp(<a href="https://api.whatsapp.com/send?phone=34633171659&text=Hola%20soy%20Brais%2C%20encantado!">+34 633171659</a>)
-- Telegram(<a href="">@braiso_22</a>)
+- Telegram(<a href="https://t.me/braiso_22">@braiso_22</a>)
 - Discord(<a href=https://discordapp.com/users/572932811087020043>braiso_22#2667</a>)
 
 
