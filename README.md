@@ -42,6 +42,9 @@ From July 11, 2022 to the present
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=braiso-22&layout=compact&border_radius=10&langs_count=6&hide=jupyter%20notebook">
   <img alt="My programming languages Statistics" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=braiso-22&layout=compact&theme=graywhite&border_radius=10&langs_count=6&hide=jupyter%20notebook">
 </picture>
+
+![Visitor Count](https://profile-counter.glitch.me/braiso-22/count.svg)
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braiso-22)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
