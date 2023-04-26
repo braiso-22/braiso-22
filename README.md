@@ -17,13 +17,12 @@ From July 11, 2022 to the present
 
 ## 🌱 I’m currently learning:
 - Modern Android App Development with Kotlin and Jetpack Compose
-- Python for scripting and web scraping(BeautifullSoup, Selenium)
-- ML, AI and BigData(Python, JupyterNotebook, Pandas, PyPlot, Opencv, Numpy, Hadoop, HDFS, Hive, PowerBI)
 - Web development(Javascript,jQuery, DOM)
 
 
 ## 📖 Academic Titles
 
+- ML, AI and BigData(Python, JupyterNotebook, Pandas, PyPlot, Opencv, Numpy, Hadoop, HDFS, Hive, PowerBI, Web-scraping, GPT)
 - Multiplatform application programming(Java, C#, SQLServer/MySQL, HTML, CSS, Android, Unity, Git, Scrum...)
 - BigData Developing(Python, Scala, MariaDB, MongoDB, Spark, Cloudera)
 - Networking and Microsystems(Windows, Linux, ActiveDirectory, Network configuration, Computer assembly and maintenance, Office, Image , Audio and Video editing)
