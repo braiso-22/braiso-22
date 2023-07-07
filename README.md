@@ -4,7 +4,7 @@ GL/ES/EN - <a href="https://braiso-22.github.io" target="_blank">My web page</a>
 ## 👨‍💻 Work experience:
 <ul>
  <li> 
-  <a href="https://es.nttdata.com">NttData</a> Solutions Assistant
+  <a href="https://es.nttdata.com">NttData</a> Junior Enginer
  </li>
 From July 11, 2022 to the present
 
@@ -33,7 +33,7 @@ From July 11, 2022 to the present
 - Linkedin(<a href=https://www.linkedin.com/in/brais-fern%C3%A1ndez-v%C3%A1zquez-93490a211>Brais Fernández Vázquez</a>)
 - Whatsapp(<a href="https://api.whatsapp.com/send?phone=34633171659&text=Hola%20soy%20Brais%2C%20encantado!">+34 633171659</a>)
 - Telegram(<a href="https://t.me/braiso_22">@braiso_22</a>)
-- Discord(<a href=https://discordapp.com/users/572932811087020043>braiso_22#2667</a>)
+- Discord(<a href=https://discordapp.com/users/572932811087020043>braiso_22</a>)
 
 
 <picture>
