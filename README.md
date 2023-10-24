@@ -21,7 +21,7 @@ From July 11, 2022 to October 11, 2023
 
 ## 🌱 I’m currently learning:
 - Modern Android App Development with Kotlin and Jetpack Compose
-- Web development(Javascript,jQuery, DOM)
+- Web development(Javascript, Typescript, React, jQuery, DOM)
 
 
 ## 📖 Academic Titles
