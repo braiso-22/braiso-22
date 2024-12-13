@@ -8,7 +8,7 @@ GL/ES/EN - <a href="https://braiso-22.github.io" target="_blank">My web page</a>
 </li>
  From October 16, 2023 to the present
  <li> 
-  <a href="https://es.nttdata.com">NttData</a> Junior Enginer
+  <a href="https://es.nttdata.com">NttData</a> Junior Java Developer
  </li>
 From July 11, 2022 to October 11, 2023
 
