@@ -20,7 +20,7 @@ From July 11, 2022 to October 11, 2023
 
 
 ## 🌱 I’m currently learning:
-- Modern Multiplatform Development with Kotlin and Compose
+- Modern Multiplatform Development with Kotlin/Compose and Swift/SwiftUi
 - Web development(Typescript and React)
 
 
