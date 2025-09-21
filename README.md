@@ -39,16 +39,11 @@ From July 11, 2022 to October 11, 2023
 - Telegram(<a href="https://t.me/braiso_22">@braiso_22</a>)
 - Discord(<a href="https://discordapp.com/users/572932811087020043">braiso_22</a>)
 
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=braiso-22&layout=compact&theme=github_dark&border_radius=10&langs_count=6&hide=jupyter%20notebook">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=braiso-22&layout=compact&border_radius=10&langs_count=6&hide=jupyter%20notebook">
-  <img alt="My programming languages Statistics" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=braiso-22&layout=compact&theme=graywhite&border_radius=10&langs_count=6&hide=jupyter%20notebook">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=braiso-22&layout=compact&theme=github_dark&border_radius=10&langs_count=6&hide=jupyter%20notebook">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=braiso-22&layout=compact&border_radius=10&langs_count=6&hide=jupyter%20notebook">
+  <img alt="My programming languages Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braiso-22&layout=compact&theme=graywhite&border_radius=10&langs_count=6&hide=jupyter%20notebook">
 </picture>
-
-- Times that some user entered to my profile
-
-![Visitor Count](https://profile-counter.glitch.me/braiso-22/count.svg)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braiso-22)](https://github.com/anuraghazra/github-readme-stats)-->
 
