@@ -4,7 +4,7 @@ GL/ES/EN - <a href="https://braiso-22.github.io" target="_blank">My web page</a>
 ## 👨‍💻 Work experience:
 <ul>
 <li>
- <a href="https://www.cwellt.net">Cwellt Software</a> Android Developer
+ <a href="https://cwellt.com">Cwellt Software</a> Android Developer
 </li>
  From October 16, 2023 to the present
  <li> 
